@@ -1,0 +1,46 @@
+{
+   "isRedirect": false,
+   "message": "Hai there is new update for this app please download!",
+   "redirectUrl": "-",
+   
+   "moreApp": [
+		{
+			"Name": "de Lyna Piano Tiles Juegos",
+			"Description": "Do you dream to be the best piano tiles player ever ?? Have you ever wanted to play Piano Tiles de Lyna Piano Tiles Game? now de Lyna piano tiles comes with new songs especially for you !!",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.tileslova.delynapianogametiles",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpiano3/main/iconn%20drLyna.png"
+		},
+		{
+			"Name": "Lady Diana Piano Game Tiles",
+			"Description": "Lady Diana Piano Tiles More fun if it's played at the side of friends. Besides Piano game music, we also prepared many classical piano songs for you. There are many choices for you.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.tileslova.ladydianapianogametiles",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpiano3/main/iconn%20ladydiana.png"
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		}
+	]
+}
